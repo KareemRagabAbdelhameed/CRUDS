@@ -1,5 +1,5 @@
-Description
 This Product Management System is a simple CRUD (Create, Read, Update, Delete) application for managing product data. It provides an intuitive interface for adding, viewing, updating, and deleting products, as well as searching through them. Built with HTML, CSS, and JavaScript, this system uses local storage for data persistence, ensuring that data is retained even after the page is refreshed.
+
 Features
 1 : Add Products: Create new products by entering details such as title, price, taxes, ads, discount, count, and category.
 2 : View Products: Display a list of all products in a table format with options to update or delete each product.
